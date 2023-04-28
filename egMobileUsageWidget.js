@@ -48,8 +48,8 @@ let egmLogoutUrl = egmLgLogoutUrl
 const githubRepoUrl = 'https://github.com/nerious2/egmobile-lg-usage-widget-for-ios'
 
 // widget update URL
-const versionUrl = 'https://raw.githubusercontent.com/nerious2/egmobile-lg-usage-widget-for-io/main/version.json'
-const sourceUrl = 'https://raw.githubusercontent.com/nerious2/egmobile-lg-usage-widget-for-io/main/egMobileUsageWidget.js'
+const versionUrl = 'https://raw.githubusercontent.com/nerious2/egmobile-lg-usage-widget-for-ios/main/version.json'
+const sourceUrl = 'https://raw.githubusercontent.com/nerious2/egmobile-lg-usage-widget-for-ios/main/egMobileUsageWidget.js'
 
 // Progressbar
 const h = 10

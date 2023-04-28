@@ -1,7 +1,7 @@
 # EGMobile (LGU+) Usage Widget for iOS/iPadOS
 이지모바일(코드모바일) LGU+망 통신사 사용량 조회 위젯 (Scriptable)
 
-<img src="./assets/widget_preview.jpg" alt="widget_preview" width="250"/>
+<img src="./assets/widget_preview.jpg" alt="widget_preview" width="300"/>
 
 [위젯 다운로드 (최신)](https://github.com/nerious2/egmobile-lg-usage-widget-for-ios/releases/latest)
 
