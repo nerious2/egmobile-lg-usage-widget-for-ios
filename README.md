@@ -5,6 +5,8 @@
 
 [위젯 다운로드 (최신)](https://github.com/nerious2/egmobile-lg-usage-widget-for-ios/releases/latest)
 
+[Scriptable 설정 방법](Tutorial.md)
+
 ## 소개
 
 - iOS/iPadOS 14 이상을 지원하는 Apple 기기에서 사용 가능한 [Scriptable](https://apps.apple.com/kr/app/scriptable/id1405459188) 위젯입니다.
